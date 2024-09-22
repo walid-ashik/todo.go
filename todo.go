@@ -47,7 +47,7 @@ func (todos *Todos) delete(index int) error {
 	}
 
 	// delete by index, make 2 slice, merge them
-	*todos = append(t[:index], t[:index+1]...)
+  *todos = append(t[:index], t[index+1:]...)
 
 	return nil
 }

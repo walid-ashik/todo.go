@@ -1,20 +1,20 @@
 [
     {
-        "Text": "1. First to do here",
+        "Text": "first to do here",
         "Completed": false,
-        "CompletedAt": null,
+        "CompletedAt": "2024-09-22T10:26:59.464012+06:00",
         "CreatedAt": "2024-09-21T22:00:40.178111+06:00"
     },
     {
-        "Text": "2. Seconds to do here",
-        "Completed": false,
-        "CompletedAt": null,
-        "CreatedAt": "2024-09-21T22:00:40.178112+06:00"
+        "Text": "second to do here",
+        "Completed": true,
+        "CompletedAt": "2024-09-22T10:36:04.407837+06:00",
+        "CreatedAt": "2024-09-21T22:00:40.178111+06:00"
     },
     {
-        "Text": "New One added",
+        "Text": "watch football match",
         "Completed": false,
         "CompletedAt": null,
-        "CreatedAt": "2024-09-21T22:21:25.418442+06:00"
+        "CreatedAt": "2024-09-22T10:35:45.094289+06:00"
     }
 ]
